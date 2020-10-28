@@ -35,8 +35,9 @@
 
  
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gluckgabor/my-stack)
-
+<br>
+<p align="left">
 	<a href="https://www.linkedin.com/gluckgabor/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<p align="left"></p>
+</p>
 
 
