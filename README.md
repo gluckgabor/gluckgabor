@@ -18,7 +18,7 @@
 [<img align="left" title="Heroku" width="26px" src="https://image.flaticon.com/icons/png/512/873/873120.png">](https://www.heroku.com/)
 [<img align="left" title="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">](https://git-scm.com/)
 <br>
-
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
