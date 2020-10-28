@@ -4,16 +4,16 @@
 
 
 **Currently working with:**
-
+<br>
 
 **Learning:**
-
+<br>
 
 **Previously worked with:**
 [<img align="left" width="26px" title="Eclipse" src="https://img.favpng.com/19/5/20/eclipse-computer-icons-integrated-development-environment-computer-software-png-favpng-MP7Mt60AUSbUv28tJZqBNPhmJ.jpg">](https://www.eclipse.org/downloads/)
 [<img align="left" width="26px" title="VsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/)
 
-
+<br>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gluckgabor/gluckgabor">
