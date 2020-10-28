@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 
-
 **Currently working with:**
+<p align="center">
 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
-
+</p>
 **Learning:**
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 
