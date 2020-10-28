@@ -2,12 +2,21 @@
 
 
 ### Tools:
-<br>
 [<img align="left" width="26px" title="Eclipse" src="https://img.favpng.com/19/5/20/eclipse-computer-icons-integrated-development-environment-computer-software-png-favpng-MP7Mt60AUSbUv28tJZqBNPhmJ.jpg">](https://www.eclipse.org/downloads/)
 [<img align="left" width="26px" title="VsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/)
+[<img align="left" width="26px" title="Java" src="https://i7.pngguru.com/preview/709/905/282/openjdk-java-virtual-machine-android-oracle-corporation-android.jpg">](https://openjdk.java.net/)
+[<img align="left" width="26px" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://www.javascript.com/)
 [<img align="left" width="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org/)
 [<img align="left" width="26px" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" width="26px" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">](https://dart.dev/)
 [<img align="left" width="26px" title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">](https://www.cplusplus.com/)
+[<img align="left" title="SpringBoot" width="26px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png">](https://spring.io/projects/spring-boot)
+[<img align="left" title="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://nodejs.org/en/)
+[<img align="left" title="Three.js" width="26px" src="https://user-images.githubusercontent.com/13366932/91737137-f5dd9d80-ebae-11ea-9a68-aa6088f73133.png">](https://threejs.org/)
+[<img align="left" title="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">](https://flutter.dev/)
+[<img align="left" title="MongoDB" width="26px" src="https://p1.hiclipart.com/preview/709/737/126/numix-circle-for-windows-mongodb-icon-png-icon.jpg">](https://www.mongodb.com/)
+[<img align="left" title="Heroku" width="26px" src="https://image.flaticon.com/icons/png/512/873/873120.png">](https://www.heroku.com/)
+[<img align="left" title="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">](https://git-scm.com/)
 <br>
 
 
