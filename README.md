@@ -4,25 +4,14 @@
 
 
 **Currently working with:**
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
 
-
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 
 **Learning:**
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+
 
 **Previously worked with:**
 
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
+
 
 ## &#x1f4c8; GitHub Stats
 
