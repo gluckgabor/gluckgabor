@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gluckgabor/my-stack)
