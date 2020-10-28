@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<gluckgabor>&theme=<dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<gluckgabor>" />
 
 
 
