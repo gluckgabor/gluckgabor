@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gluckgabor&langs_count=8" />
 </a>
 
-<a href="https://github.com/gluckgabor/gluckgabor">
+<a href="https://github.com/gluckgabor/gluckgabor">  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gluckgabor&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 <br>
