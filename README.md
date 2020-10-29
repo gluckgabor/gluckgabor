@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gluckgabor&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
-<br>
+<br><br>
 
 <!--- just 
 ## Visitors at <a href="https://github.com/gluckgabor/QuestionSetRandomDrawing_ConsoleApp">QuestionSetRandomDrawing_ConsoleApp repo: </a>
