@@ -31,6 +31,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/gluckgabor/QuestionSetRandomDrawing_ConsoleApp?label=Visitors&style=social)
 --->
 
+
 [![GitHub](https://img.shields.io/github/followers/gluckgabor?label=follow&style=social)](https://github.com/gluckgabor)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gluckgabor/my-stack)
 [![Youtube](https://img.shields.io/youtube/views/AvYgvzxmoEE?style=social)](https://www.youtube.com/channel/UC2iO9y05EyC5Nu5cQSpShMA?view_as=subscriber)
