@@ -24,11 +24,12 @@
 </a>
 
 
-[![GitHub](https://img.shields.io/github/followers/gluckgabor?label=follow&style=social)](https://github.com/gluckgabor)
+
 
 ## Visitors at <a href="https://github.com/gluckgabor/QuestionSetRandomDrawing_ConsoleApp">QuestionSetRandomDrawing_ConsoleApp repo: </a>
 ![GitHub watchers](https://img.shields.io/github/watchers/gluckgabor/QuestionSetRandomDrawing_ConsoleApp?label=Visitors&style=social)
 
+[![GitHub](https://img.shields.io/github/followers/gluckgabor?label=follow&style=social)](https://github.com/gluckgabor)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gluckgabor/my-stack)
 <p>
 <a href="https://www.linkedin.com/in/gaborgluck/?originalSubdomain=hu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
