@@ -17,7 +17,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gluckgabor/gluckgabor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gluckgabor&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gluckgabor&langs_count=10" />
 </a>
 
 <a href="https://github.com/gluckgabor/gluckgabor">  
