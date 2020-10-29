@@ -21,12 +21,14 @@
 </a>
 
 [!GitHub Stats](https://github-readme-stats.vercel.app/api?username=gluckgabor&show_icons=true&count_private=true&include_all_commits=true)
-
 [![GitHub](https://img.shields.io/github/followers/gluckgabor?label=follow&style=social)](https://github.com/gluckgabor)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gluckgabor/my-stack)
+
+	<a href="https://www.linkedin.com/in/gaborgluck/?originalSubdomain=hu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+
 <br>
 <p align="left">
-	<a href="https://www.linkedin.com/in/gaborgluck/?originalSubdomain=hu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</a>
 </p>
 
 
