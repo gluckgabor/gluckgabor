@@ -19,11 +19,14 @@
 <a href="https://github.com/gluckgabor/gluckgabor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gluckgabor&hide=java,html" />
 </a>
+
 <a href="https://github.com/gluckgabor/gluckgabor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gluckgabor&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
-
+<a href="https://www.linkedin.com/in/gaborgluck/?originalSubdomain=hu">
+  <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+</a>
 
 <!--- just 
 ## Visitors at <a href="https://github.com/gluckgabor/QuestionSetRandomDrawing_ConsoleApp">QuestionSetRandomDrawing_ConsoleApp repo: </a>
@@ -32,9 +35,5 @@
 [![GitHub](https://img.shields.io/github/followers/gluckgabor?label=follow&style=social)](https://github.com/gluckgabor)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gluckgabor/my-stack)
 [![Youtube](https://img.shields.io/youtube/views/AvYgvzxmoEE?style=social)](https://www.youtube.com/channel/UC2iO9y05EyC5Nu5cQSpShMA?view_as=subscriber)
-<p>
-<a href="https://www.linkedin.com/in/gaborgluck/?originalSubdomain=hu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
-</a>
-</p>
 
 
