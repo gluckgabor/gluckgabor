@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/gluckgabor/gluckgabor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gluckgabor&show_icons=true&count_private=false&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gluckgabor&show_icons=true&count_private=true&count_private=false&include_all_commits=true" />
 </a>
 <br>
 <br>
