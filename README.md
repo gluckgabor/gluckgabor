@@ -7,7 +7,7 @@
 [<img align="left" width="46px" title="Java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">](https://openjdk.java.net/)
 [<img align="left" width="26px" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://www.javascript.com/)
 [<img align="left" width="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org/)
-[<img align="left" width="26px" title="C#" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png](https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64-p-800.png)">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" width="26px" title="C#" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64-p-800.png">](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" width="26px" title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">](https://www.cplusplus.com/)
 [<img align="left" title="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">](https://git-scm.com/)
 <code><img height="20" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
